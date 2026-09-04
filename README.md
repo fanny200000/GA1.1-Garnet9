@@ -14,3 +14,6 @@ The function can be used by typing 'multiply(a, b)' and replacing a and b by num
 
 **Sum_list function**
 The sum_list function adds a list of numbers together. So if you have the list [a,b,c,d,e] this functions will give a+b+c+d+e as a result.
+
+**Difference from zero function:**
+The difference from zero function uses one input variable a, that will be compared to zero. If its below zero it will make use of the subtract function and it will subtract the value from zero and return that value. Else it returns the value itself.
