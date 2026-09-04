@@ -1,3 +1,8 @@
+**Add function**
+adding two numbers
+use the function to add two variables
+it can crush if you use a comma instead of a dot
+
 **Substract function:**
 subtract.ipynb subtracts b from a.
 If a = 6 and b = 3, the subtract function gives 3.
