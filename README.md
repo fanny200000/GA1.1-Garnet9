@@ -21,3 +21,4 @@ The difference from zero function uses one input variable a, that will be compar
 **Square function:**
 This function give the square of the input x
 
+this is the improvement
